@@ -1,6 +1,6 @@
 # Digital Humanities projects by W P McConvell 
 
-[Obligatory possession of geographical terms - Sulawesi and Maluku](https://billymcconvell.github.io/geoposs/): and interactive map figure to accompany a workshop presentation and later book chapter
+[Obligatory possession of geographical terms - Sulawesi and Maluku](https://billymcconvell.github.io/geoposs/): an interactive map figure to accompany a workshop presentation and later book chapter
 
 <!---
 You can use the [editor on GitHub](https://github.com/billymcconvell/billymcconvell.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

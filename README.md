@@ -1,4 +1,6 @@
-## Digital Humanities projects by W P McConvell 
+# Digital Humanities projects by W P McConvell 
+
+
 <!---
 You can use the [editor on GitHub](https://github.com/billymcconvell/billymcconvell.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

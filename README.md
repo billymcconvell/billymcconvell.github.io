@@ -4,6 +4,7 @@
 
 ### [Sulawesi altitude map with language groups (experimental - **do not cite**)](https://billymcconvell.github.io/elevbada/)
 
+### [My legasy projects etc. at anthromap.info](http://anthromap.info/)
 
 <!---
 You can use the [editor on GitHub](https://github.com/billymcconvell/billymcconvell.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

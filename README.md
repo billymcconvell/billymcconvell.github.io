@@ -2,7 +2,7 @@
 
 ### [Obligatory possession of geographical terms - Sulawesi and Maluku](https://billymcconvell.github.io/geoposs/): an interactive map figure to accompany a workshop presentation and later book chapter
 
-### [Sulawesi altitude map with language groups (experimental)](https://billymcconvell.github.io/elevbada/)
+### [Sulawesi altitude map with language groups (experimental - **do not cite**)](https://billymcconvell.github.io/elevbada/)
 
 
 <!---

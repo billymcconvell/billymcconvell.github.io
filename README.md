@@ -4,6 +4,8 @@
 
 ### [Obligatory possession of kin terms (experimental - **do not cite**)](https://billymcconvell.github.io/kintermposs/)
 
+### [Obligatory possession of human body part terms (experimental - **do not cite**)](https://billymcconvell.github.io/hbodypartposs/)
+
 ### [Sulawesi altitude map with language groups (experimental - **do not cite**)](https://billymcconvell.github.io/elevbada/)
 
 ### [My legacy projects etc. at anthromap.info](http://anthromap.info/)

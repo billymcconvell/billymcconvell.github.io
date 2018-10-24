@@ -2,7 +2,7 @@
 
 ### [Obligatory possession of geographical terms - Sulawesi and Maluku](https://billymcconvell.github.io/geoposs/): an interactive map figure to accompany a workshop presentation and later publication
 
-### Incomplete and/or more experimental projects - do not cite without permission
+### Incomplete and/or more experimental projects - do not cite without permission:
 
 ### [Obligatory possession of kin terms](https://billymcconvell.github.io/kintermposs/)
 

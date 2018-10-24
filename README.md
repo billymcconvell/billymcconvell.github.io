@@ -4,9 +4,9 @@
 
 ### Incomplete and/or more experimental projects - do not cite without permission:
 
-### [Obligatory possession of kin terms](https://billymcconvell.github.io/kintermposs/)
-
 ### [Obligatory possession of human body part terms](https://billymcconvell.github.io/hbodypartposs/)
+
+### [Obligatory possession of kin terms](https://billymcconvell.github.io/kintermposs/)
 
 ### [Obligatory possession of plant part terms](https://billymcconvell.github.io/plantpartposs/)
 

@@ -1,4 +1,4 @@
-# Digital Humanities projects by W P McConvell 
+# Mapping Linguistics and Culture - digital projects by W P McConvell 
 
 ### [Obligatory possession of geographical terms - Sulawesi and Maluku](https://billymcconvell.github.io/geoposs/): an interactive map figure to accompany a workshop presentation and later publication
 

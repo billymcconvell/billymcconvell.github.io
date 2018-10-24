@@ -2,11 +2,15 @@
 
 ### [Obligatory possession of geographical terms - Sulawesi and Maluku](https://billymcconvell.github.io/geoposs/): an interactive map figure to accompany a workshop presentation and later publication
 
-### [Obligatory possession of kin terms (experimental - **do not cite**)](https://billymcconvell.github.io/kintermposs/)
+### Incomplete and/or more experimental projects - do not cite without permission
 
-### [Obligatory possession of human body part terms (experimental - **do not cite**)](https://billymcconvell.github.io/hbodypartposs/)
+### [Obligatory possession of kin terms](https://billymcconvell.github.io/kintermposs/)
 
-### [Sulawesi altitude map with language groups (experimental - **do not cite**)](https://billymcconvell.github.io/elevbada/)
+### [Obligatory possession of human body part terms](https://billymcconvell.github.io/hbodypartposs/)
+
+### [Obligatory possession of plant part terms](https://billymcconvell.github.io/plantpartposs/)
+
+### [Sulawesi altitude map with language groups](https://billymcconvell.github.io/elevbada/)
 
 ### [My legacy projects etc. at anthromap.info](http://anthromap.info/)
 

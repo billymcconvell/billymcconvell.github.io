@@ -1,10 +1,8 @@
 # Mapping Linguistics and Culture - digital projects by W P McConvell 
 
-### *Incomplete and/or more experimental material within - do not cite without permission*
+### *Incomplete and/or experimental material within - do not cite without permission*
 
 ### [Obligatory possession in the Indo-Pacific by semantic domain](https://billymcconvell.github.io/posstotals/)
-
-### Other: 
 
 ### [Sulawesi altitude map with language groups](https://billymcconvell.github.io/elevbada/)
 

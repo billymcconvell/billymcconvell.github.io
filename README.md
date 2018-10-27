@@ -1,20 +1,8 @@
 # Mapping Linguistics and Culture - digital projects by W P McConvell 
 
-### [Obligatory possession of geographical terms - Sulawesi and Maluku](https://billymcconvell.github.io/geoposs/): an interactive map figure to accompany a workshop presentation and later publication
+### *Incomplete and/or more experimental material within - do not cite without permission*
 
-### Incomplete and/or more experimental projects - do not cite without permission:
-
-### Obligatory possession of: 
-
-### [Human body part terms](https://billymcconvell.github.io/hbodypartposs/)
-
-### [Kin terms](https://billymcconvell.github.io/kintermposs/)
-
-### [Plant part terms](https://billymcconvell.github.io/plantpartposs/)
-
-### [Animal body part terms](https://billymcconvell.github.io/abodypartposs/)
-
-### [Betel culture and (kept) animal terms, and miscellany](https://billymcconvell.github.io/miscposs/)
+### Obligatory possession in the Indo-Pacific by semantic domain (https://billymcconvell.github.io/posstotals/)
 
 ### Other: 
 

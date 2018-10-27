@@ -2,7 +2,7 @@
 
 ### *Incomplete and/or more experimental material within - do not cite without permission*
 
-### Obligatory possession in the Indo-Pacific by semantic domain (https://billymcconvell.github.io/posstotals/)
+### [Obligatory possession in the Indo-Pacific by semantic domain](https://billymcconvell.github.io/posstotals/)
 
 ### Other: 
 

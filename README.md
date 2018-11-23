@@ -4,7 +4,7 @@
 
 ### [Obligatory possession in the Indo-Pacific by semantic domain](https://billymcconvell.github.io/posstotals/)
 
-### [Test/proof of concept - 'contact isogloss' map](https://billymcconvell.github.io/test4-gulflakes.pdf) - this shows some different grammatical and lexical features shared with at least one language by contact in the Palu hinterland sprachbund
+### [Test/proof of concept - 'contact isogloss' map](https://billymcconvell.github.io/test4-lakesgulf.pdf) - this shows some different grammatical, sound change and lexical features shared with at least one language by contact in the Palu hinterland sprachbund
 
 ### [Sulawesi altitude map with language groups](https://billymcconvell.github.io/elevbada/)
 
